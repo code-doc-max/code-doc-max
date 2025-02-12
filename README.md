@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on a project that can help revolutionize med e-learning.
 - 📫 How to reach me email: aishatidowu4@gmail.com
 - 😄 Pronouns: just she
-- ⚡ Fun fact: Im love the ocean.
+- ⚡ Fun fact: I love the ocean.
 
 <!---
 code-doc-max/code-doc-max is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
